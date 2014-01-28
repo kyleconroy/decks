@@ -59,6 +59,7 @@
 1x Scion of the Wild
 1x Sek'Kuar, Deathkeeper
 1x Shattergang Brothers
+1x Shivan Oasis
 1x Silklash Spider
 1x Skullclamp
 1x Sol Ring
@@ -74,10 +75,11 @@
 1x Terramorphic Expanse
 1x Tooth and Claw
 1x Underworld Connections
+1x Urborg Volcano
 1x Vivid Grove
 1x Warstorm Surge
 1x Where Ancients Tread
 1x Wight of Precinct Six
+6x Forest
+6x Mountain
 6x Swamp
-7x Forest
-7x Mountain
