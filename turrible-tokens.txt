@@ -2,6 +2,7 @@
 1x Abrupt Decay
 1x Akoum Refuge
 1x Avenger of Zendikar
+1x Butcher of Malakir
 1x Carrion Feeder
 1x Charnelhoard Wurm
 1x Command Tower
@@ -13,9 +14,9 @@
 1x Endrek Sahr, Master Breeder
 1x Evolving Wilds
 1x Fecundity
-1x Fell Shepherd
 1x Fires of Yavimaya
 1x Furnace Celebration
+1x Gaea's Herald
 1x Goblin Bombardment
 1x Goblin Sharpshooter
 1x Golgari Guildgate
@@ -30,15 +31,16 @@
 1x Kazandu Refuge
 1x Khalni Garden
 1x Kher Keep
+1x Kobold Taskmaster 
 1x Kodama's Reach
 1x Llanowar Reborn
 1x Mass Mutiny
 1x Mosswort Bridge
 1x Night's Whisper
 1x Obelisk of Jund
+1x Ogre Battledriver
 1x Opal Palace
 1x Ophiomancer
-1x Orge Battledriver
 1x Parallel Lives
 1x Plague Boiler
 1x Primal Vigor
@@ -50,7 +52,6 @@
 1x Read the Bones
 1x Reaper of the Wilds
 1x Reincarnation
-1x Rough & Tumble
 1x Rupture Spire
 1x Sakura-Tribe Elder
 1x Savage Lands
@@ -77,7 +78,6 @@
 1x Warstorm Surge
 1x Where Ancients Tread
 1x Wight of Precinct Six
-1x Withered Wretch
 6x Swamp
 7x Forest
 7x Mountain
