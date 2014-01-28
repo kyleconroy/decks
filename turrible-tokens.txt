@@ -2,13 +2,10 @@
 1x Abrupt Decay
 1x Akoum Refuge
 1x Avenger of Zendikar
-1x Brooding Saurian
-1x Carnage Altar
 1x Carrion Feeder
 1x Charnelhoard Wurm
 1x Command Tower
 1x Corpsejack Menace
-1x Curse of Predation
 1x Deathbringer Thoctar
 1x Deepfire Elemental
 1x Diabolic Intent
@@ -16,19 +13,19 @@
 1x Endrek Sahr, Master Breeder
 1x Evolving Wilds
 1x Fecundity
-1x Foster
+1x Fell Shepherd
+1x Fires of Yavimaya
 1x Furnace Celebration
 1x Goblin Bombardment
 1x Goblin Sharpshooter
 1x Golgari Guildgate
-1x Golgari Guildmage
 1x Grim Backwoods
 1x Gruul Guildgate
 1x Havoc Festival
+1x Hull Breach
 1x Inferno Titan
 1x Jade Mage
 1x Jar of Eyeballs
-1x Jund Charm
 1x Jund Panorama
 1x Kazandu Refuge
 1x Khalni Garden
@@ -37,21 +34,28 @@
 1x Llanowar Reborn
 1x Mass Mutiny
 1x Mosswort Bridge
+1x Night's Whisper
 1x Obelisk of Jund
 1x Opal Palace
 1x Ophiomancer
+1x Orge Battledriver
+1x Parallel Lives
 1x Plague Boiler
 1x Primal Vigor
+1x Prossh, Skyraider of Kher
 1x Purphoros, God of the Forge
 1x Quagmire Druid
 1x Rakdos Guildgate
+1x Rancor
+1x Read the Bones
+1x Reaper of the Wilds
 1x Reincarnation
-1x Restore
 1x Rough & Tumble
 1x Rupture Spire
 1x Sakura-Tribe Elder
 1x Savage Lands
 1x Scarland Thrinax
+1x Scion of the Wild
 1x Sek'Kuar, Deathkeeper
 1x Shattergang Brothers
 1x Silklash Spider
@@ -69,10 +73,10 @@
 1x Terramorphic Expanse
 1x Tooth and Claw
 1x Underworld Connections
-1x Vile Requiem
 1x Vivid Grove
+1x Warstorm Surge
+1x Where Ancients Tread
 1x Wight of Precinct Six
-1x Witch Hunt
 1x Withered Wretch
 6x Swamp
 7x Forest
