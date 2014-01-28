@@ -64,6 +64,7 @@
 1x Stronghold Assassin
 1x Sudden Demise
 1x Swiftfoot Boots
+1x Tainted Wood
 1x Temple of the False God
 1x Tempt with Vengeance
 1x Terramorphic Expanse
@@ -74,6 +75,6 @@
 1x Wight of Precinct Six
 1x Witch Hunt
 1x Withered Wretch
+6x Forest
 6x Swamp
-7x Forest
 7x Mountain
