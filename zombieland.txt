@@ -3,6 +3,7 @@
 1x Carrion Feeder
 1x Corpse Harvester
 1x Cover of Darkness
+1x Feast or Famine 
 1x Gempalm Polluter
 1x Ghastly Remains
 1x Grave Betrayal
@@ -18,7 +19,10 @@
 1x Phylactery Lich
 1x Pontiff of Blight
 1x Putrid Imp
+1x Read the Bones
+1x Rise from the Grave
 1x Rotlung Reanimator
+1x Salt Marsh
 1x Shepherd of Rot
 1x Skullclamp
 1x Soulless One
