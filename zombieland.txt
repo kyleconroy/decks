@@ -1,33 +1,77 @@
+1x Akoum Refuge
+1x Army of the Damned
+1x Barter in Blood
 1x Blood Scrivener
 1x Boneknitter
+1x Call to the Grave
 1x Carrion Feeder
+1x Cemetery Reaper
 1x Corpse Harvester
 1x Cover of Darkness
+1x Crumbling Necropolis
+1x Deadapult
+1x Death Cloud
+1x Dimir Guildgate
+1x Diregraf Captain
+1x Door of Destinies
+1x Dread Slaver
+1x Endless Ranks of the Dead
 1x Feast or Famine 
+1x Frost Marsh
 1x Gempalm Polluter
 1x Ghastly Remains
 1x Grave Betrayal
 1x Graveborn Muse
 1x Gray Merchant of Asphodel
+1x Grimoire of the Dead
 1x Grotesque Hybrid
+1x Havengul Lich
+1x Jwar Isle Refuge
+1x Lightning Reaver
 1x Liliana's Reaver
 1x Lord of Tresserhorn
 1x Lord of the Undead
 1x Necrosavant
 1x Nefashu
+1x Nephalia Drownyard
+1x Night's Whisper
+1x Nightscape Apprentice
+1x Nightscape Master
+1x Nim Deathmantle
 1x Noxious Ghoul
+1x Obelisk of Grixis
 1x Phylactery Lich
+1x Plaguebearer
 1x Pontiff of Blight
 1x Putrid Imp
+1x Rakdos Guildgate
 1x Read the Bones
 1x Rise from the Grave
+1x Rooftop Storm
 1x Rotlung Reanimator
 1x Salt Marsh
+1x Shambling Remains
 1x Shepherd of Rot
+1x Sign in Blood
 1x Skullclamp
 1x Soulless One
+1x Syphon Flesh
+1x Tainted Isle
+1x Tainted Peak
+1x Talisman of Dominance 
+1x Talisman of Indulgence
+1x Tresserhorn Sinks
+1x Unbreathing Horde
+1x Undead Alchemist
+1x Undead Gladiator
 1x Undead Warchief
+1x Unearth
+1x Unholy Grotto
+1x Unscythe, Killer of Kings
+1x Urborg Volcano
 1x Vengeful Dead
+1x Victim of Night
 1x Wight of Precinct Six
 1x Withered Wretch
 1x Zombie Apocalypse
+25x Swamp
