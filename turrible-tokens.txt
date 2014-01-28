@@ -36,6 +36,7 @@
 1x Llanowar Reborn
 1x Mass Mutiny
 1x Mosswort Bridge
+1x Nantuko Husk
 1x Night's Whisper
 1x Obelisk of Jund
 1x Ogre Battledriver
@@ -80,7 +81,6 @@
 1x Vivid Grove
 1x Warstorm Surge
 1x Where Ancients Tread
-1x Wight of Precinct Six
-6x Forest
 5x Swamp
+6x Forest
 6x Mountain
